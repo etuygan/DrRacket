@@ -1,4 +1,3 @@
-
 ;; circles: number -> Image
 ; (define (fcircles n)
 ;   (cond
