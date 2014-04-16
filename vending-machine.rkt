@@ -1,4 +1,3 @@
-
 ;constants
 
    ;proporties of scene 
